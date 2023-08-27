@@ -1,4 +1,4 @@
-package co.edu.uniquindio.estudiante;
+package co.edu.uniquindio.estudiante.model;
 
 public class Estudiante {
     private String nombre;
